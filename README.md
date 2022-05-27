@@ -1,4 +1,4 @@
-# Calculator-using-HTML-CSS-JavaScript
+# Calculator-using-HTML-CSS-JavaScript 📱
 __A simple calculator with dark and light modes__
 
 # a) Dark Mode
